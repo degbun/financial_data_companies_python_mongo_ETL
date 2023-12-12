@@ -24,7 +24,8 @@ pip install -r requirements.txt
 2. Configuration MongoDB :
 Assurez-vous d'avoir une instance de MongoDB configurée et remplacez la chaîne de connexion dans data_processing.py par vos informations MongoDB.
 
-3.Exécution du Projet :
+
+3. Exécution du Projet :
 Exécutez main.py pour lancer le processus complet d'ETL.
 ```bash
 python main.py
