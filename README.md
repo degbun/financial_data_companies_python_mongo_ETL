@@ -1,4 +1,4 @@
-# financial_data_companies_python_mongo_ETL
+# Financial_data_companies_python_mongo_ETL
 Ce projet met en œuvre un processus ETL pour extraire, transformer et charger les données financières de plusieurs entreprises dans une base de données MongoDB. La structure du projet est la suivante :
 ## Structure des Fichiers
 1. `data_processing.py`:
